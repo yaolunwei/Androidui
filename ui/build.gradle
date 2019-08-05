@@ -32,7 +32,7 @@ publish {
     userOrg = 'bigoat'
     groupId = 'com.bigoat.android'
     artifactId = 'ui'
-    publishVersion = '0.0.1'
+    publishVersion = '0.1.1'
     desc = 'This is android ui.'
     website = 'https://github.com/yaolunwei/Androidui'
 }
